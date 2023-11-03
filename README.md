@@ -15,3 +15,5 @@ For running app there is a Dockerfile that contains all nessesary configuration,
 be configured and run before starting the app
 
 For full environment (DB + App) there is a docker-compose.yml file.
+
+SwaggerUI will be available at /docs route.
